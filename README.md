@@ -1,6 +1,6 @@
 # Background Color Change Using JS
 
-[Snapshot](ss.png)
+![Snapshot](ss.png)
 
 A simple code to change background color by clicking on button
 
